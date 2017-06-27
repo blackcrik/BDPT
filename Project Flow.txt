@@ -1,0 +1,83 @@
+Condominium Certificate of Title (CCT) Transfer:
++Requirement 1:
+	+Deed of Absolute Sale (DOAS)
+		-RF Date??? - Ask for more details
+		-Date of Preparationg (Date)
+		-Remarks of DOAS
+		-Signature Status:
+				-Buyer
+				-FCD (/w date)
+				-JCM (/w date)
+				-JPR (/w date)
+		-Date of Notarized DOAS
+		-Remarks of Notarized DOAS		
+	+Notarized Contract to Sell (CTS)
+		-RF Date???
+		-Date of Preparation (Date)
+		-Remarks of CTS (Text)		
+			-Signature Status:
+				-Buyer
+				-FCD (/w date)
+				-JCM (/w date)
+				-JPR (/w date)
+		-Date of  Notarization (Date)
+		-Remarks of Notarized CTS (/w date)
+	+Valid ID of buyers
+		-Any of the IDs
+		-BIR TIN IDs
+	+Photocopy of Condominium Certificate of Title (CCT)
+	+Photocopy of Tax Declaration
+	+BIR Form 1606 and official receipt for the payment of CWT
+	+BIR Form 1701-E (Application for Registration)
+	+OR of D/P and Monthly Amortization
+	+Photocopy of the License to Sell (LS) and Certificate of Registration (CR)
+	+Secretary's Certificate authorizing signatory to sign in behalf of the compnay
+
++Requirements 2:
+	+Check for certified true copies
+		-CCT
+		-Tax Declaration
+		-Tax Clearance
+		-Secure all of this and send to (RD, Asssesor's Off & Treasure's Off.)
+	+Compute:
+		-Necessary fees
+		-Documentary stamp Tax (DST)
+		-Transfer Tax
+		-RD Filing
+		-Miscellaneous expenses
+		-By accomplishing the "Schedule of Registration Expenses"
+
++Requirements 3:
+	+"Request for Payment" (RFP) for all the registration fees /w date
+       	+Secure a control no. from accounting department by registering the RFPs in the
+	 "Accounting RFP Control Log Book".
+	+Follow-up release of checks from the cashier.
+	+Request for the original Owner's duplicate copy of CCT for the use of
+	 original TCT for BIR, Transfer Tax, and Registry of Deeds.
+
++Requirements 4:
+	+Have the DOAS notarized
+	+Payment of DST would be on 5th day every month. (Date)
+
++Requirements 5:
+	+Collate requirements for BIR for Certificate Authorizing Registration (CAR)
+		-DOAS (1 orig, and 2 duplicate copy)
+		-Photocopy of LS And CR
+		-CTC of TCT and Tax Dec
+		-OR of CWT
+		-BIR Form 1701-E
+		-Transfer Tax Payment
+		-Accomplished BIR Form 2000 OT
+	+Present all the required documents to the Officer of the Day (OD) of the
+	 ONETT section of the BIR.
+	+Secure computational sheet from the OD.
+	+Check if the check and computation is equal.
+	+If the same, proceed to the bank or BIR payment collection section and have the
+	 DST due paid. Payment for the DST must be paid on or before the 5th day.
+	+Photocopy of OR of DST payments (2 copies) one for BIR, and one for liquidation.
+
++Requirements 6:
+	+Secure the one-time TIN for the buyer, attached the BIR form 1904 with all
+	 the documents needed in securing the Certificate of Registration.
+	+Secure a Certificate Fee and a Php 15.00 documentary stamp tax.
+	+CAR
