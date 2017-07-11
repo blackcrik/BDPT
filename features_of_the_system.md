@@ -28,12 +28,12 @@ Requirement Analysis:
 	-Process constraints:
 			
 Customer requirements:
--The user shall be able to identify the progress of _buyer's documents_.
--The user shall be able to update the progress of _buyer's documents_.
--The user shall be able to identify the _number of condo_ status.
--The user shall be able to identify the _client's status_.
--The user shall be able to add, delete or update _record_ of a buyer.
--The user shall be able to update the _condo's status_. (Ask if the number of condominium can be added?)
--The user shall be able to choose what kind of computation of expenses for the buyer (extra feature, pdf file upload only)
+	-The user shall be able to identify the progress of _buyer's documents_.
+	-The user shall be able to update the progress of _buyer's documents_.
+	-The user shall be able to identify the _number of condo_ status.
+	-The user shall be able to identify the _client's status_.
+	-The user shall be able to add, delete or update _record_ of a buyer.
+	-The user shall be able to update the _condo's status_. (Ask if the number of condominium can be added?)
+	-The user shall be able to choose what kind of computation of expenses for the buyer (extra feature, pdf file upload only)
 
 SPA Name and Status should be removed and replace by SPA Address
