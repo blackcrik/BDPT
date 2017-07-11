@@ -6,7 +6,7 @@
 
 ---
 
-Requirement Analysis:  
+#### Requirement Analysis:  
 - Functional Requirements:  
     - Desirable: Able to add new customer data (System-generated ID No.)  
     - Essential: Able to view the summarized data (According to the need of the user)  
@@ -26,7 +26,8 @@ Requirement Analysis:
 
 - Process constraints:  
 			
-Customer requirements:  
+		
+#### Customer requirements:  
 - The user shall be able to identify the progress of **buyer's documents**.  
 - The user shall be able to update the progress of **buyer's documents**.  
 - The user shall be able to identify the **condo status number**.  
