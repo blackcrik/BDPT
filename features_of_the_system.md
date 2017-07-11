@@ -1,8 +1,8 @@
-#### Project Name: Buyers Document Progress Tracker  
-#### Company Name: SOC Land Development Corporation  
-#### Project Duration: May 29, 2017 – June 29, 2017  
-#### Project Supervisor: Yasmin Dela Cruz / Carla Joy Diva  
-#### Problem Analysis: (see the Statement of the Problem.)  
+**Project Name       :** Buyers Document Progress Tracker
+**Company Name       :** SOC Land Development Corporation
+**Project Duration   :** May 29, 2017 – June 29, 2017
+**Project Supervisor :** Yasmin Dela Cruz / Carla Joy Diva
+**Problem Analysis   :** (see the Statement of the Problem.)
 
 Requirement Analysis:
 
