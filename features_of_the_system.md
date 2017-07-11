@@ -3,8 +3,8 @@
 **Project Duration   :** May 29, 2017 – June 29, 2017  
 **Project Supervisor :** Yasmin Dela Cruz / Carla Joy Diva  
 **Problem Analysis   :** (see the Statement of the Problem.)  
-
-Requirement Analysis:
+---
+Requirement Analysis:  
 
 	-Functional Requirements:
 	
@@ -28,7 +28,7 @@ Requirement Analysis:
 
 	-Process constraints:
 			
-Customer requirements:
+Customer requirements:  
 
 	-The user shall be able to identify the progress of **buyer's documents**.
 	-The user shall be able to update the progress of **buyer's documents**.
